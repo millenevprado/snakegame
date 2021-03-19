@@ -82,4 +82,4 @@ function iniciarJogo(){
 
 }
 
-let jogo = setInterval(iniciarJogo, 100);
+let jogo = setInterval(iniciarJogo, 130);
